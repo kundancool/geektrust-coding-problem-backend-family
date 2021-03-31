@@ -1,0 +1,291 @@
+[
+    {
+        "id": 1,
+        "name": "Shan",
+        "gender": "Male",
+        "spouse": 2,
+        "children": [
+            3,
+            4,
+            5,
+            6,
+            7
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Anga",
+        "gender": "Female",
+        "spouse": 1,
+        "children": [
+            3,
+            4,
+            5,
+            6,
+            7
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Chit",
+        "gender": "Male",
+        "spouse": 8,
+        "children": [
+            9,
+            10,
+            11
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Ish",
+        "gender": "Male",
+        "spouse": null,
+        "children": []
+    },
+    {
+        "id": 5,
+        "name": "Vich",
+        "gender": "Male",
+        "spouse": 14,
+        "children": [
+            15,
+            16
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Aras",
+        "gender": "Male",
+        "spouse": 17,
+        "children": [
+            18,
+            19
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Satya",
+        "gender": "Female",
+        "spouse": 23,
+        "children": [
+            24,
+            25,
+            26
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Amba",
+        "gender": "Female",
+        "spouse": 3,
+        "children": [
+            9,
+            10,
+            11
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Dritha",
+        "gender": "Female",
+        "spouse": 12,
+        "children": [
+            13
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Tritha",
+        "gender": "Female",
+        "spouse": null,
+        "children": []
+    },
+    {
+        "id": 11,
+        "name": "Vritha",
+        "gender": "Male",
+        "spouse": null,
+        "children": []
+    },
+    {
+        "id": 12,
+        "name": "Jaya",
+        "gender": "Male",
+        "spouse": 9,
+        "children": [
+            13
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Yodhan",
+        "gender": "Male",
+        "spouse": null,
+        "children": []
+    },
+    {
+        "id": 14,
+        "name": "Lika",
+        "gender": "Female",
+        "spouse": 5,
+        "children": [
+            15,
+            16
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Vila",
+        "gender": "Female",
+        "spouse": null,
+        "children": []
+    },
+    {
+        "id": 16,
+        "name": "Chika",
+        "gender": "Female",
+        "spouse": null,
+        "children": []
+    },
+    {
+        "id": 17,
+        "name": "Chitra",
+        "gender": "Female",
+        "spouse": 6,
+        "children": [
+            18,
+            19
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Jnki",
+        "gender": "Female",
+        "spouse": 20,
+        "children": [
+            21,
+            22
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Ahit",
+        "gender": "Male",
+        "spouse": null,
+        "children": []
+    },
+    {
+        "id": 20,
+        "name": "Arit",
+        "gender": "Male",
+        "spouse": 18,
+        "children": [
+            21,
+            22
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Laki",
+        "gender": "Male",
+        "spouse": null,
+        "children": []
+    },
+    {
+        "id": 22,
+        "name": "Lavnya",
+        "gender": "Female",
+        "spouse": null,
+        "children": []
+    },
+    {
+        "id": 23,
+        "name": "Vyan",
+        "gender": "Male",
+        "spouse": 7,
+        "children": [
+            24,
+            25,
+            26
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Asva",
+        "gender": "Male",
+        "spouse": 27,
+        "children": [
+            28
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Vyas",
+        "gender": "Male",
+        "spouse": 29,
+        "children": [
+            30
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Atya",
+        "gender": "Female",
+        "spouse": null,
+        "children": []
+    },
+    {
+        "id": 27,
+        "name": "Satvy",
+        "gender": "Female",
+        "spouse": 24,
+        "children": [
+            28
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Vasa",
+        "gender": "Male",
+        "spouse": null,
+        "children": []
+    },
+    {
+        "id": 29,
+        "name": "Krpi",
+        "gender": "Female",
+        "spouse": 25,
+        "children": [
+            30
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Kriya",
+        "gender": "Male",
+        "spouse": null,
+        "children": []
+    },
+    {
+        "id": 31,
+        "name": "Krithi",
+        "gender": "Female",
+        "spouse": null,
+        "children": []
+    },
+    {
+        "id": 32,
+        "name": "Vani",
+        "gender": "Female",
+        "spouse": null,
+        "children": []
+    },
+    {
+        "id": 33,
+        "name": "Ketu",
+        "gender": "Male",
+        "spouse": null,
+        "children": []
+    }
+]

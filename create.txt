@@ -1,0 +1,50 @@
+ADD_PERSON Shan Male
+
+ADD_SPOUSE Shan Anga Female
+
+ADD_CHILD Shan Chit Male
+ADD_CHILD Shan Ish Male
+ADD_CHILD Shan Vich Male
+ADD_CHILD Shan Aras Male
+ADD_CHILD Shan Satya Female
+
+ADD_SPOUSE Chit Amba Female
+
+ADD_CHILD Chit Dritha Female
+ADD_CHILD Chit Tritha Female
+ADD_CHILD Chit Vritha Male
+
+ADD_SPOUSE Dritha Jaya Male
+
+ADD_CHILD Dritha Yodhan Male
+
+ADD_SPOUSE Vich Lika Female
+
+ADD_CHILD Vich Vila Female
+ADD_CHILD Vich Chika Female
+
+ADD_SPOUSE Aras Chitra Female
+
+ADD_CHILD Aras Jnki Female
+ADD_CHILD Aras Ahit Male
+
+ADD_SPOUSE Jnki Arit Male
+
+ADD_CHILD Jnki Laki Male
+ADD_CHILD Jnki Lavnya Female
+
+ADD_SPOUSE Satya Vyan Male
+
+ADD_CHILD Satya Asva Male
+ADD_CHILD Satya Vyas Male
+ADD_CHILD Satya Atya Female
+
+ADD_SPOUSE Asva Satvy Female
+
+ADD_CHILD Asva Vasa Male
+
+ADD_SPOUSE Vyas Krpi Female
+
+ADD_CHILD Vyas Kriya Male
+ADD_CHILD Vyas Krithi Female
+
